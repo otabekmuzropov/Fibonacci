@@ -17,7 +17,7 @@ func main ()  {
 
 	var num int
 
-	fmt.Println("Enter the num")
+	fmt.Println("Enter the numbers of line")
 	fmt.Scan(&num)
 
 	for i := 0; i < num; i++ {
